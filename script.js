@@ -1,5 +1,5 @@
 //your JS code here. If required.
-fucntion daysOfAYear(year){
+function daysOfAYear(year){
 	if(year % 400 === 0){
 		return 366;
 	}
